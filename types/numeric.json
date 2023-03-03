@@ -62,6 +62,17 @@
 		},
 		"capacity": 16,
 		"mode": "decimal"
+	}, {
+		"schema": {
+			"mode": "decimal"
+		},
+		"capacity": 16,
+		"mode": "floating"
+	}, {
+		"schema": {
+			"mode": "bigint"
+		},
+		"mode": "long"
 	}],
 	"hiddenOnEntity": "view"
 }
